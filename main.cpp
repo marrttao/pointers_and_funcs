@@ -1,7 +1,7 @@
 #include <iostream>
 #include <random>
 using namespace std;
-
+// comment cause i cant commit
 void split(const int* array, int size, int* positive_array, int* negative_array, int* zero_array, int* pos_count, int* neg_count, int* zero_count) {
     *pos_count = 0;
     *neg_count = 0;
